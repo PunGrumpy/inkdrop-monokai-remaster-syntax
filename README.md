@@ -7,3 +7,5 @@ Monokai remaster syntax theme for Inkdrop Markdown Editor
 ```bash
 ipm install monokai-remaster
 ```
+
+![Screenshot](https://raw.githubusercontent.com/PunGrumpy/inkdrop-monokai-remaster-syntax/image/screenshot.png)
