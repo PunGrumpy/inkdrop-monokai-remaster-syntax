@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "name": "solarized-dark-syntax",
-  "description": "Solarlized Dark",
+  "name": "monokai-remaster-syntax",
+  "description": "Monokai remaster",
   "theme": "syntax",
   "styleSheets": [
-    "solarized.less"
+    "monokai-remaster.less"
   ],
   "engines": {
     "inkdrop": "^5.x"
