@@ -2,6 +2,10 @@
   "version": "1.0.0",
   "name": "monokai-remaster-syntax",
   "description": "Monokai remaster",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PunGrumpy/inkdrop-monokai-remaster-syntax"
+  },
   "theme": "syntax",
   "styleSheets": [
     "monokai-remaster.less"
